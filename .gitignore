@@ -1,0 +1,7 @@
+/target
+/target_x86_64
+**/*.rs.bk
+Cargo.lock
+.env
+.DS_Store
+.agents
